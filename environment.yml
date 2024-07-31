@@ -1,0 +1,7 @@
+name: myenv
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - xmltodict
+    - html2text
